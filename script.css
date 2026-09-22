@@ -1,0 +1,12 @@
+```javascript
+// Tuyikunde Restaurant JavaScript
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    console.log("Tuyikunde Restaurant website loaded successfully.");
+
+    // Smooth navigation
+    const links = document.querySelectorAll(".nav-links a");
+
+    links.forEach(function (link)
+                
